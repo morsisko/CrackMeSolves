@@ -74,6 +74,4 @@ def validate(key):
 		
 	return True
 
-#print(multiple(0, 5, [0, 1, 0, 0, 0, 1]))
 print(validate("12388079866699041114210001802"))
-#print(hex(multiple(8, 4, [1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 1, 2, 3, 4, 5, 6, 8, 8])))
